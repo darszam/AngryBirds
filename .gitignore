@@ -1,0 +1,13 @@
+AngryBirds/Temp/
+AngryBirds/Library/
+AngryBirds/Obj/
+AngryBirds/ProjectSettings/ 
+AngryBirds/Builds/
+
+
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.DS_store
